@@ -1,0 +1,34 @@
+body{
+    background-color: #fff;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 45px;
+}
+nav{
+    text-align: center;
+    text-decoration: underline;
+    color: purple;
+    font-size: 27px;
+
+}
+h2{
+    color: purple;
+    text-align: center;
+    font-size: 25px;
+}
+ul{
+    text-align: center;
+}
+ol{
+    text-align: center;
+}
+
+h3{
+    color:rgb(212, 182, 137);
+    font-size: 27px;
+}
+div ul {
+    list-style-position: inside;
+}
