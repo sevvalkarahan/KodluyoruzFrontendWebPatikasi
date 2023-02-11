@@ -1,0 +1,70 @@
+.image{
+    text-align: center;
+}
+.conteiner{
+    background-color: rgb(204, 204, 203);
+    height: 100px;
+    margin: 0 80px;
+}
+.search{
+    height: 10;
+    background-color: white;
+    margin: 0 500px;
+}
+
+input.gonder{
+    color: #00060b;
+    background-color:white;
+    border: 3px #00060b;
+    font:bold 12px Arial, Helvetica, sans-serif;
+    margin: 0 0 0 580px;
+}
+input.btn{
+    color: #00060b;
+    background-color:white;
+    border: 3px black;
+    font:bold 12px Arial, Helvetica, sans-serif;
+   
+}
+.box{
+    padding: 10px;
+    background-color: rgb(130, 233, 199);
+    height: 100px;
+    width: 520px;
+    margin: 0 0 0 80px;
+    text-align: center;
+    float: left;
+}
+.box2{
+    padding: 10px;
+    background-color: rgb(130, 233, 221);
+    height: 100px;
+    width: 260px;
+    text-align: center;
+    margin: 0 3px;
+    border: 3px black;
+    float: left;
+    
+}
+.box3{
+    padding: 10px;
+    background-color: rgb(130, 233, 221);
+    height: 100px;
+    width: 510px;
+    text-align: center;
+    margin: 0 3px;
+    border: 3px black;
+    float: left;
+
+}
+input.btn2{
+    color: #00060b;
+    background-color:white;
+    border: 3px black;
+    font:bold 12px Arial, Helvetica, sans-serif;
+
+}
+.card{
+    height: 100px;
+    margin: auto;
+}
